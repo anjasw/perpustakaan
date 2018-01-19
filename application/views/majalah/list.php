@@ -73,7 +73,7 @@
 								<div class="form-line">
 										<input type="text" name="q" class="form-control" value="<?php echo $this->input->get('q')?>">
 								</div>
-						</div>text
+						</div>
 				</div>
 				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 						<button type="submit" class="btn btn-primary btn-lg m-l-15 waves-effect">Search</button>
